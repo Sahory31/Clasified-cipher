@@ -35,7 +35,7 @@ los pasa exactamente igual.
 
 ## 3. Resultado Final
 
-![Pantalla final de proyecto](https://picasaweb.google.com/105903851414200430966/6756404105422190497#6756404105214056274 "Final_Screen")
+![Pantalla final de proyecto](../src/classified.jpg)
 
 ## 4. Investigación UX
 
