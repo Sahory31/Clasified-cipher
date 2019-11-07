@@ -2,13 +2,36 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Caesar Cipher</title>
+    <title>Classified Cipher</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+
     <div id="root">
-      <h1>Hello world!</h1>
+      <h1> Welcome to the clasified Cipher app! </h1>
+      <h3> encode & decode your message</h3>
     </div>
+
+    <div id="scrollNumber">
+      <p> ¡Insert a scroll number: </p>
+      <input type="number" id="offsetEncodeNumber" name="add number" min="1" max="50">
+    </div>
+
+    <div id="insertMessage">
+      <p> ¡Intsert your message here! </p>
+      <input type="text" name="Encript/decript code" id="stringMessage">
+    </div>
+
+    <div>
+       <input type="button" value="CODE" class="btn" id="codeBtnId">
+       <input type="button" value="DECODE" class="btn" id="decodeBtnId">
+       <input type="reset" value="RESET" class="btn" id="resetBtnId" >
+    </div>
+
+    <div id="results">
+      <p id="encodeWords"> Your Message is... </p>
+    </div>
+
     <script src="cipher.js"></script>
     <script src="index.js"></script>
   </body>
