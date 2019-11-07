@@ -35,7 +35,7 @@ los pasa exactamente igual.
 
 ## 3. Resultado Final
 
-![Pantalla final de proyecto](../src/classified.jpg)
+![Pantalla final de proyecto](src/classified.jpg)
 
 ## 4. Investigación UX
 
