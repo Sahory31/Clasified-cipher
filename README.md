@@ -35,7 +35,7 @@ los pasa exactamente igual.
 
 ## 3. Resultado Final
 
-![Pantalla final de proyecto](src/classified.jpg)
+![Pantalla final de proyecto](final_screen.jpg)
 
 ## 4. Investigación UX
 
@@ -51,7 +51,7 @@ los pasa exactamente igual.
 
 ### Primer Prototipo:
 
-![Primer prototipo](https://picasaweb.google.com/105903851414200430966/6756413682834453537#6756413681192245234 "First_prototype")
+![Primer prototipo](first_screen.jpg)
 ### Feedback:
 
  - [x] Alinear los botones.
@@ -62,4 +62,4 @@ los pasa exactamente igual.
 
 ### Prototipo Final:
 
-![Prototipo final](https://picasaweb.google.com/105903851414200430966/6756413463262307953#6756413463240910498 "Final_prototype")
+![Prototipo final](final_prototype.jpg)
